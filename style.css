@@ -1,0 +1,10 @@
+.main-text{
+font-size: 66px;
+font-weight: bold;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-shadow: 6px 3px rgb(48, 48, 48);
+
+}
+h1 span{
+    color: red;
+}
